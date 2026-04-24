@@ -1,3 +1,7 @@
+"""
+自定义错误断言
+"""
+
 class Foo:
     def __init__(self, val):
         self.val = val
